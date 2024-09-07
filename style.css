@@ -1,0 +1,45 @@
+.tools-header{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+}
+
+.games-header{
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: green;
+}
+
+.otherstuff-header{
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+}
+
+.description{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+.backarrow {
+    scale: .2;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+
+body {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+html{
+    background-color: black;
+}
+
+.display{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
